@@ -1,0 +1,26 @@
+<students>
+    <student faculty="philology">
+        <name>Ivan</name>
+        <surname>Ivanov</surname>
+        <birthday>1995</birthday>
+        <nationality>rus</nationality>
+    </student>
+    <student faculty="math">
+        <name>Petro</name>
+        <surname>Petrenko</surname>
+        <birthday>1996</birthday>
+        <nationality>ukr</nationality>
+    </student>
+    <student faculty="math">
+        <name>John</name>
+        <surname>Jonson</surname>
+        <birthday>1994</birthday>
+        <nationality>eng</nationality>
+    </student>
+    <student faculty="philology">
+        <name>Chan</name>
+        <surname>Chanyn</surname>
+        <birthday>1997</birthday>
+        <nationality>cn</nationality>
+    </student>
+</students>
